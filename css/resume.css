@@ -130,12 +130,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-.bg-primary {
-  background-color: #0D47A1 ;
-}
+
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #0D47A1 !important;
 }
 
 a {
